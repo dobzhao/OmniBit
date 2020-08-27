@@ -43,6 +43,6 @@
   "OmniBit.enCarRun.Right_Front|block": "向右前方",
   "OmniBit.enCarRun.Left_Back|block": "向左后方",
   "OmniBit.enCarRun.Right_Back|block": "向右后方",
-  "OmniBit.enCarRun.CarStop|block": "停止"
   "OmniBit.Ultrasonic|block": "超声波|发射引脚 %Trig|接收引脚 %Echo",
+  "OmniBit.enCarRun.CarStop|block": "停止"
 }

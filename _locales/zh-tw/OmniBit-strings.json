@@ -43,6 +43,7 @@
   "OmniBit.enCarRun.Right_Front|block": "向右前方",
   "OmniBit.enCarRun.Left_Back|block": "向左後方",
   "OmniBit.enCarRun.Right_Back|block": "向右後方",
+  "CrocoKit_Sensor.Light|block": "光敏傳感器|引腳 %pin ",
   "OmniBit.enCarRun.CarStop|block": "停止"
   
 }
