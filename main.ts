@@ -350,8 +350,7 @@ namespace OmniBit {
         }
     }
 
-    //% blockId=CrocoKit_Sensor_Ultrasonic block="Ultrasonic|Trig %Trig|Echo %Echo"
-    //% color="#228B22"
+    //% blockId=OmniBit_Ultrasonic block="Ultrasonic|Trig %Trig|Echo %Echo"
     //% weight=97
     //% blockGap=20
     //% name.fieldEditor="gridpicker" name.fieldOptions.columns=5
